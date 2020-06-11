@@ -20,6 +20,12 @@ Day 7 | [Data Science: Inference & Modeling](https://www.edx.org/course/data-sci
 Day 8 | |Section 5: Bayesian Statistics </br> Section 6: Election Forecasting </br> Section 7: Association Tests </br> Course Wrap-up and Comprehensive Assessment: Brexit </br> Publishing the article about Inference and Modeling| 
 Day 7 | [Data Science: Productivity Tools](https://www.edx.org/course/data-science-productivity-tools) |Introduction and Welcome  </br> Section 1: Installing Softwares </br> Section 2: Basic Unix </br> Section 3: Reproducible Reports </br> Drafting an article about Productivity Tools| 
 Day 8 | |Section 4: Git and GitHub </br> Section 5: Advanced Unix </br> Publishing the article about Productivity Tools| 
+Day 9 | [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling) |Introduction and Welcome  </br> Section 1: Data Import </br> Section 2: Tidy Data </br> Drafting an article about Wrangling| 
+Day 10  | | Section 3: String Processing </br> Section 4: Dates, Times, and Text Mining </br> Comprehensive Assessment and Course Wrap-up </br> Publishing the article about Wrangling| 
+
+
+
+
 
 
 
