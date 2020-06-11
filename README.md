@@ -26,12 +26,14 @@ Day 13 | [Data Science: Linear Regression](https://www.edx.org/course/data-scien
 Day 14 | | Section 2: Linear Models</br>  Section 3: Confounding </br> Publishing the article about Wrangling| 
 Day 15 | [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning) |Introduction and Welcome  </br>  Section 1: Introduction to Machine Learning  </br> Section 2: Machine Learning Basic </br> Drafting an article about Linear Regression| 
 Day 16 | | Section 3: Linear Regression for Prediction, Smoothing, and Working with Matrices </br> Section 4: Distance, Knn, Cross-validation, and Generative Models </br> Publishing the article about Linear Regression| 
-Day 117 | | Section 5: Classification with More than Two Classes and the Caret Package </br> Section 6: Model Fitting and Recommendation Systems </br> Section 7: Final Assessment and Course Wrap-Up| 
+Day 17 | | Section 5: Classification with More than Two Classes and the Caret Package </br> Section 6: Model Fitting and Recommendation Systems </br> Section 7: Final Assessment and Course Wrap-Up| 
+Day 18 | [Data Science: Capstone](https://www.edx.org/course/data-science-capstone) |Introduction and Welcome  </br> Capstone Project: All Learners</br> Drafting an article about Machine Learning| 
+Day 19 | | Capstone Project: IDV Learners </br> Concluding Materials </br> Publishing the article about Linear Regression| 
+Day 20 | |Drafting and publishing an article about the Capstone project| 
 
 
  
- 
- 
+
 
 
 
