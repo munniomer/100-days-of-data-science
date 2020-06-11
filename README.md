@@ -24,16 +24,14 @@ Day 9 | [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangl
 Day 10  | | Section 3: String Processing </br> Section 4: Dates, Times, and Text Mining </br> Comprehensive Assessment and Course Wrap-up </br> Publishing the article about Wrangling| 
 Day 11 | [Data Science: Linear Regression](https://www.edx.org/course/data-science-linear-regression) |Introduction and Welcome  </br> Section 1: Introduction to Regression  </br> Drafting an article about Linear Regression| 
 Day 12 | | Section 2: Linear Models</br>  Section 3: Confounding </br> Publishing the article about Linear Regression| 
+Day 13 | [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning) |Introduction and Welcome  </br>  Section 1: Introduction to Machine Learning  </br> Section 2: Machine Learning Basic </br> Drafting an article about Machine Learning| 
+Day 14 | | Section 3: Linear Regression for Prediction, Smoothing, and Working with Matrices </br> Section 4: Distance, Knn, Cross-validation, and Generative Models </br> Publishing the article about Machine Learning| 
+Day 15 | | Section 5: Classification with More than Two Classes and the Caret Package </br> Section 6: Model Fitting and Recommendation Systems </br> Section 7: Final Assessment and Course Wrap-Up| 
 
 
-
-
-
-
-
-
-
-
+ 
+ 
+ 
 
 
 
