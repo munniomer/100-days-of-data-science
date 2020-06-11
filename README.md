@@ -12,12 +12,15 @@ Day        | Topic      | Learning Concepts |
 ------------- | ------------- | --------------- | 
 Day 1 | [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics) |Introduction and Welcome  </br> Section 1: R Basics, Functions, and Data Types  </br> Section 2: Vectors, Sorting | 
 Day 2 | |Section 3: Indexing, Data Wrangling, Plots  </br> Section 4: Programming Basics| 
-Day 3 | [Data Science: Visualization](https://www.edx.org/course/data-science-visualization) |Introduction and Welcome  </br> Section 1: Introduction to Data Visualization and Distributions  </br> Section 2: Introduction to ggplot2 </br> Drafting an article about Data Science: R Basics | 
-Day 4 | | Section 3: Summarizing with dplyr  </br> Section 4: Gapminder </br> Section 5: Data Visualization Principles </br> Comprehensive Assessment and End of Course Survey </br> Publishing the article about Data Science: R Basics| 
-Day 5 | [Data Science: Probability](https://www.edx.org/course/data-science-probability) | Introduction and Welcome </br> Section 1: Discrete Probability </br> Section 2: Continuous Probability </br> Drafting an article about Data Science: Visualization | 
-Day 6 | | Section 3: Random Variables, Sampling Models, and the Central Limit Theorem  </br> Section 4: The Big Short </br> Publishing the article about Data Science: Visualization| 
+Day 3 | [Data Science: Visualization](https://www.edx.org/course/data-science-visualization) |Introduction and Welcome  </br> Section 1: Introduction to Data Visualization and Distributions  </br> Section 2: Introduction to ggplot2 </br> Drafting an article about R Basics| 
+Day 4 | | Section 3: Summarizing with dplyr  </br> Section 4: Gapminder </br> Section 5: Data Visualization Principles </br> Comprehensive Assessment and End of Course Survey </br> Publishing the article about R Basics| 
+Day 5 | [Data Science: Probability](https://www.edx.org/course/data-science-probability) | Introduction and Welcome </br> Section 1: Discrete Probability </br> Section 2: Continuous Probability </br> Drafting an article about Visualization | 
+Day 6 | | Section 3: Random Variables, Sampling Models, and the Central Limit Theorem  </br> Section 4: The Big Short </br> Publishing the article about Inference and Modeling| 
+Day 7 | [Data Science: Inference & Modeling](https://www.edx.org/course/data-science-inference-and-modeling) |Introduction and Welcome  </br> Section 1: Parameters and Estimates </br> Section 2: The Central Limit Theorem in Practice </br> Section 3: Confidence Intervals and p-Values </br> Section 4: Statistical Models </br> Drafting an article about R Basics| 
+Day 8 | |Section 5: Bayesian Statistics </br> Section 6: Election Forecasting </br> Section 7: Association Tests </br> Course Wrap-up and Comprehensive Assessment: Brexit </br> Publishing the article about Inference and Modeling| 
 
- 
+
+
 
 
 
