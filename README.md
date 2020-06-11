@@ -22,6 +22,8 @@ Day 7 | [Data Science: Productivity Tools](https://www.edx.org/course/data-scien
 Day 8 | |Section 4: Git and GitHub </br> Section 5: Advanced Unix </br> Publishing the article about Productivity Tools| 
 Day 9 | [Data Science: Wrangling](https://www.edx.org/course/data-science-wrangling) |Introduction and Welcome  </br> Section 1: Data Import </br> Section 2: Tidy Data </br> Drafting an article about Wrangling| 
 Day 10  | | Section 3: String Processing </br> Section 4: Dates, Times, and Text Mining </br> Comprehensive Assessment and Course Wrap-up </br> Publishing the article about Wrangling| 
+Day 11 | [Data Science: Linear Regression](https://www.edx.org/course/data-science-linear-regression) |Introduction and Welcome  </br> Section 1: Introduction to Regression  </br> Drafting an article about Linear Regression| 
+Day 12 | | Section 2: Linear Models</br>  Section 3: Confounding </br> Publishing the article about Linear Regression| 
 
 
 
