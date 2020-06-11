@@ -12,6 +12,7 @@ Day        | Topic      | Learning Concepts |
 ------------- | ------------- | --------------- | 
 Day 1 | Data Science: R Basics |Introduction and Welcome  </br> Section 1: R Basics, Functions, and Data Types  </br> Section 2: Vectors, Sorting | 
 Day 2 | |Section 3: Indexing, Data Wrangling, Plots  </br> Section 4: Programming Basics| 
-
+Day 3 | Data Science: Visualization |Introduction and Welcome  </br> Section 1: Introduction to Data Visualization and Distributions  </br> Section 2: Introduction to ggplot2 </br> | 
+Day 4 | | Section 3: Summarizing with dplyr  </br> Section 4: Gapminder </br> Section 5: Data Visualization Principles </br> | 
 
 
