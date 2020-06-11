@@ -2,7 +2,7 @@
 ### This is a Curriculum for learning Data Science from scratch in 100 days.
 
 #### Start Date
-June 11, 2020
+June 12, 2020
 
 At the end of this 100 Days challenge, I would like to build a rich portfolio of data science Skills and projects.
 
