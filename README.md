@@ -18,6 +18,12 @@ Day 5 | [Data Science: Probability](https://www.edx.org/course/data-science-prob
 Day 6 | | Section 3: Random Variables, Sampling Models, and the Central Limit Theorem  </br> Section 4: The Big Short </br> Publishing the article about Inference and Modeling| 
 Day 7 | [Data Science: Inference & Modeling](https://www.edx.org/course/data-science-inference-and-modeling) |Introduction and Welcome  </br> Section 1: Parameters and Estimates </br> Section 2: The Central Limit Theorem in Practice </br> Section 3: Confidence Intervals and p-Values </br> Section 4: Statistical Models </br> Drafting an article about R Basics| 
 Day 8 | |Section 5: Bayesian Statistics </br> Section 6: Election Forecasting </br> Section 7: Association Tests </br> Course Wrap-up and Comprehensive Assessment: Brexit </br> Publishing the article about Inference and Modeling| 
+Day 7 | [Data Science: Productivity Tools](https://www.edx.org/course/data-science-productivity-tools) |Introduction and Welcome  </br> Section 1: Installing Softwares </br> Section 2: Basic Unix </br> Section 3: Reproducible Reports </br> Drafting an article about Productivity Tools| 
+Day 8 | |Section 4: Git and GitHub </br> Section 5: Advanced Unix </br> Publishing the article about Productivity Tools| 
+
+
+
+
 
 
 
